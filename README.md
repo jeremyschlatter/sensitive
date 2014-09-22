@@ -4,4 +4,4 @@ To see it in action, clone this repository, open the directory in your terminal,
 
 `./transcrypt -c aes-256-cbc -p 'nqB0XUcNx/Rb1Z0KzflLULQZWvjsBcsnXrzoipWe'`
 
-Now look at the file `secret_info` on your machine and compare it to the copy on github.
+Now look at the file `secret_data` on your machine and compare it to the copy on github.
